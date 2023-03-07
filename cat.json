@@ -1,0 +1,46 @@
+{
+	"Ads": [{
+		"enable_ads": false,
+		"select_ads": "ADMOB",
+		"backup_ads": "FAN",
+		"gdpr_child_directed": false,
+		"interval_native": 7,
+		"interval": 0,
+		"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+		"admob_nativ": "ca-app-pub-3940256099942544/2247696110",
+		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+		"max_interst": "2838649e0b560a68",
+		"max_nativ": "29d0d18da450ae9c",
+		"max_banner": "ae44996e2b723dcf",
+		"fan_inter": "YOUR_PLACEMENT_ID",
+		"fan_native": "YOUR_PLACEMENT_ID",
+		"fan_banner": "YOUR_PLACEMENT_ID",
+		"fan_native_banner": "YOUR_PLACEMENT_ID",
+		"appodeal_app_key": "de49afd610b43da98d36efb2531b566b77c46e3d1b95d20c",
+		"startio_id": "123456789",
+		"unity_ads_id": "3916229",
+		"unity_banner": "banner",
+		"unity_interst": "Android_Interstitial"
+	}],
+	"Ringtone": [
+	    	{
+		"link_ringtone": "https://archive.org/details/cat5_20230307/cat1.mp3"
+		},
+		
+		{
+		"link_ringtone" : "https://archive.org/details/cat5_20230307/cat2.mp3"
+		},
+		
+		{
+		"link_ringtone" : "https://archive.org/details/cat5_20230307/cat3.mp3"
+		},
+		
+		{
+		"link_ringtone": "https://archive.org/details/cat5_20230307/cat4.mp3"
+		},
+		
+		{
+		"link_ringtone": "https://archive.org/details/cat5_20230307/cat5.mp3"
+		}
+	]
+}
